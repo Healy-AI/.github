@@ -1,3 +1,5 @@
+![healy cover](./cover.png)
+
 # healy - ai-powered health companion
 
 a mobile app that helps you build healthy habits through personalized ai recommendations and task tracking.
